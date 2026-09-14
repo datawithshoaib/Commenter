@@ -1,0 +1,5 @@
+requests
+pyperclip
+python-dotenv
+tkinter
+pyperclip

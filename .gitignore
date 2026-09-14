@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+.env.*
+.ssh/
+
+# VS Code
+.vscode/
+
+# Node.js / Next.js
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*
+frontend/.turbo/
+frontend/.vercel/
+
+# Build and coverage output
+dist/
+build/
+coverage/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+Icon?
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
