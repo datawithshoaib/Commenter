@@ -12,11 +12,13 @@ __pycache__/
 htmlcov/
 env/
 venv/
+.venv/
 ENV/
 env.bak/
 venv.bak/
 .env
 .env.*
+!.env.example
 .ssh/
 
 # VS Code
@@ -27,6 +29,7 @@ node_modules/
 frontend/.next/
 frontend/out/
 frontend/.env*
+!frontend/.env.example
 frontend/.turbo/
 frontend/.vercel/
 
